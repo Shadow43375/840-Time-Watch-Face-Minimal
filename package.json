@@ -1,0 +1,28 @@
+{
+    "author": "enyab.null@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "840-time-minimal",
+    "pebble": {
+        "displayName": "840 Time Minimal",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "7ffd90f1-2180-43b5-a8df-4f9f47c3e37d",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
